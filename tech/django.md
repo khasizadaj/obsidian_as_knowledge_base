@@ -8,7 +8,7 @@ tags: django
 ### Installation
 
 ```shell
-pip install django==3.2
+pip install django
 ```
 
 ### Start project
